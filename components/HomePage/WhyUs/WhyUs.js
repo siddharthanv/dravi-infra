@@ -29,8 +29,8 @@ function WhyUsCard() {
                 20 years of expertise.
               </Typography>
               <Typography variant="body2" className={`${classes.mBottom20} ${classes.lh1p6}`}>
-                Our executives at PropDealz are specialized in the registration process who have handled more than 10000
-                registrations
+                Our executives at DraviInfra are specialized in the registration process who have handled more than
+                10000 registrations
               </Typography>
             </CardContent>
           </Grid>
@@ -41,7 +41,7 @@ function WhyUsCard() {
                 Professional and friendly agent
               </Typography>
               <Typography variant="body2" className={`${classes.mBottom20} ${classes.lh1p6}`}>
-                Unlike traditional agents, Our Executives are professional and Client friendly. For us at PropDealz,
+                Unlike traditional agents, Our Executives are professional and Client friendly. For us at DraviInfra,
                 Customer is God.
               </Typography>
             </CardContent>
@@ -53,8 +53,8 @@ function WhyUsCard() {
                 Door Step Services
               </Typography>
               <Typography variant="body2" className={`${classes.mBottom20} ${classes.lh1p6}`}>
-                PropDealz gives doorstep services to all registration and sub-registrar-based services at your Doorstep.
-                Don't make sweat to get your job done.
+                DraviInfra gives doorstep services to all registration and sub-registrar-based services at your
+                Doorstep. Don't make sweat to get your job done.
               </Typography>
             </CardContent>
           </Grid>

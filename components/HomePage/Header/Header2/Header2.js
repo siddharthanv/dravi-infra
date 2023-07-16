@@ -52,7 +52,7 @@ function Header2(props) {
           <Box flexGrow={1}>
             <div className={classes.logoWrapper}>
               <Link href="/">
-                <Image src={props.image} alt="Prop Dealz Logo" layout="intrinsic" />
+                <Image src={props.image} alt="Dravi Infra Logo" layout="intrinsic" />
               </Link>
             </div>
           </Box>

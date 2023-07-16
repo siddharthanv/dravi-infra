@@ -12,7 +12,7 @@ function FooterBottom() {
               <span>
                 {" "}
                 <Link color="inherit" underline="none" href="/">
-                  PropDealz.
+                  DraviInfra.
                 </Link>
               </span>{" "}
               All Rights Reserved.

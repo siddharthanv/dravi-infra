@@ -27,7 +27,7 @@ function Partners(props) {
   };
   return (
     <Container className={classes.partnerContainer}>
-      <Heading heading="Associated Partners" subHeading="Prop Dealz" />
+      <Heading heading="Associated Partners" subHeading="Dravi Infra" />
       <Carousel
         responsive={responsive}
         ssr={true}

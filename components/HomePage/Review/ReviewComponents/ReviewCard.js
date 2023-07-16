@@ -16,8 +16,8 @@ function ReviewCard(props) {
                   <Card className={classes.cardStyle}>
                     <div className={classes.cardInner}>
                       <Typography className={classes.cardTypography}>
-                        PropDealz helped me getting the Legal Heir Certificate on time. They were extremely
-                        communicative and easy to reach. Thank you PropDealz!
+                        DraviInfra helped me getting the Legal Heir Certificate on time. They were extremely
+                        communicative and easy to reach. Thank you DraviInfra!
                       </Typography>
                     </div>
                     <div className={classes.myWrapper}>
@@ -34,7 +34,7 @@ function ReviewCard(props) {
                     <div className={classes.cardInner}>
                       <Typography className={classes.cardTypography}>
                         Being an NRI, it was difficult for me to process the Patta Name Transfer for my property in
-                        hometown. Propdealz gave me full assistance and helped me greatly in getting one. Nice work.
+                        hometown. DraviInfra gave me full assistance and helped me greatly in getting one. Nice work.
                       </Typography>
                     </div>
                     <div className={classes.myWrapper}>
@@ -109,7 +109,7 @@ function ReviewCard(props) {
                   <Card className={classes.cardStyle1}>
                     <div className={classes.cardInner}>
                       <Typography className={classes.cardTypography}>
-                        I struggling to sell my property for long time. Prop dealz sell my property easily. Good
+                        I struggling to sell my property for long time. Dravi Infra sell my property easily. Good
                         company!
                       </Typography>
                     </div>
@@ -146,7 +146,7 @@ function ReviewCard(props) {
             <Card className={classes.cardStyleForMobile}>
               <div className={classes.cardInnerForMobile}>
                 <Typography className={classes.cardTypographyForMobile}>
-                  I struggling to sell my property for long time. Prop dealz sell my property easily. Good company!
+                  I struggling to sell my property for long time. Dravi Infra sell my property easily. Good company!
                 </Typography>
               </div>
               <div className={classes.myWrapperForMobile}>

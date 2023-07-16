@@ -39,10 +39,10 @@ export default function MyApp(props) {
     <React.Fragment>
       <Head>
         <link rel="canonical" href="https://propdealz.com/"></link>
-        <title>Prop Dealz- Property Services at your Doorstep</title>
+        <title>Dravi Infra- Property Services at your Doorstep</title>
         <meta
           name="description"
-          content="Prop Dealz provides property registration and property services at your doorstep in Chennai, Tamil Nadu"
+          content="Dravi Infra provides property registration and property services at your doorstep in Chennai, Tamil Nadu"
         />
         <meta
           name="keywords"
@@ -69,13 +69,13 @@ export default function MyApp(props) {
             Fencing Work in chennai
             "
         />
-        <meta name="og:title" content="Prop Dealz- Property Services at your Doorstep" />
+        <meta name="og:title" content="Dravi Infra- Property Services at your Doorstep" />
         <meta name="og:type" content="company" />
         <meta name="og:url" content="https://propdealz.com/" />
-        <meta name="og:site_name" content="Prop Dealz" />
+        <meta name="og:site_name" content="Dravi Infra" />
         <meta
           name="og:description"
-          content="Prop Dealz provides property registration and property services at your doorstep in Chennai, Tamil Nadu"
+          content="Dravi Infra provides property registration and property services at your doorstep in Chennai, Tamil Nadu"
         />
         <meta name="viewport" content="minimum-scale=1, initial-scale=1, width=device-width" />
         <link rel="shortcut icon" href="images/icon.png" />

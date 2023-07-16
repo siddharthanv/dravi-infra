@@ -13,7 +13,7 @@ function FooterContent() {
           <Grid item md={4} sm={12}>
             <h2 className={classes.h2}>About Us</h2>
             <p>
-              Propdealz is your reliable partner for all your Real Estate needs and deals. Our team of experts can help
+              DraviInfra is your reliable partner for all your Real Estate needs and deals. Our team of experts can help
               you out smooth transaction of any value or complications.
             </p>
           </Grid>
@@ -41,7 +41,7 @@ function FooterContent() {
             </p>
             <p className={classes.address}>
               <Box display="flex">
-                <EmailIcon className={classes.icon} /> enquiry@propdealz.com
+                <EmailIcon className={classes.icon} /> enquiry@DraviInfra.com
               </Box>
             </p>
           </Grid>

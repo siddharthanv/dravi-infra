@@ -9,7 +9,7 @@ import prop8 from "./public/images/PropertyImages/OperaTulipAtPerungudi.jpeg";
 
 const propertyFullLists = [
   {
-    propertyId: "propdealz-property1",
+    propertyId: "DraviInfra-property1",
     propertyPrice: "2.75 crores",
     bhk: "4",
     bath: "NA",
@@ -31,7 +31,7 @@ const propertyFullLists = [
     State: "NA",
   },
   {
-    propertyId: "propdealz-property2",
+    propertyId: "DraviInfra-property2",
     propertyPrice: "7 crores",
     bhk: "NA",
     bath: "NA",
@@ -53,7 +53,7 @@ const propertyFullLists = [
     State: "NA",
   },
   {
-    propertyId: "propdealz-property3",
+    propertyId: "DraviInfra-property3",
     propertyPrice: "Call us for Price",
     bhk: "NA",
     bath: "NA",
@@ -75,7 +75,7 @@ const propertyFullLists = [
     State: "NA",
   },
   {
-    propertyId: "propdealz-property4",
+    propertyId: "DraviInfra-property4",
     propertyPrice: "4 Crores",
     bhk: "11",
     bath: "11+",
@@ -97,7 +97,7 @@ const propertyFullLists = [
     State: "NA",
   },
   {
-    propertyId: "propdealz-property5",
+    propertyId: "DraviInfra-property5",
     propertyPrice: "6 Crores",
     bhk: "5",
     bath: "5+",
@@ -119,7 +119,7 @@ const propertyFullLists = [
     State: "Tamil Nadu",
   },
   {
-    propertyId: "propdealz-property6",
+    propertyId: "DraviInfra-property6",
     propertyPrice: "3 Crores",
     bhk: "-",
     bath: "-",
@@ -141,7 +141,7 @@ const propertyFullLists = [
     State: "Tamil Nadu",
   },
   {
-    propertyId: "propdealz-property7",
+    propertyId: "DraviInfra-property7",
     propertyPrice: "1.06 Crores",
     bhk: "3",
     bath: "3",
@@ -163,7 +163,7 @@ const propertyFullLists = [
     State: "Tamil Nadu",
   },
   {
-    propertyId: "propdealz-property8",
+    propertyId: "DraviInfra-property8",
     propertyPrice: "53 Lakhs",
     bhk: "1",
     bath: "1",

@@ -46,7 +46,7 @@ function Service() {
         <meta name="og:title" content={serviceContent.metaTitle} />
         <meta name="og:type" content="company" />
         <meta name="og:url" content={serviceContent.metaSiteURL} />
-        <meta name="og:site_name" content="Prop Dealz" />
+        <meta name="og:site_name" content="Dravi Infra" />
         <meta name="og:description" content={serviceContent.metaDescription} />
       </Head>
       <Header

@@ -30,8 +30,8 @@ function Wa() {
         rel="noreferrer"
         href={
           isMobile
-            ? "https://api.whatsapp.com/send?phone=+919500029622&text=Hi Prop Dealz Team!!!. Need a Service. Call me."
-            : "https://web.whatsapp.com/send?phone=+919500029622&text=Hi Prop Dealz Team!!!. Need a Service. Call me."
+            ? "https://api.whatsapp.com/send?phone=+919500029622&text=Hi Dravi Infra Team!!!. Need a Service. Call me."
+            : "https://web.whatsapp.com/send?phone=+919500029622&text=Hi Dravi Infra Team!!!. Need a Service. Call me."
         }
         className={classes.whats}
       >

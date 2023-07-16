@@ -35,7 +35,7 @@ function ServicePage(props) {
               <Image
                 className={classes.customImg}
                 src={`/${props.image}`}
-                alt="Prop Dealz Logo"
+                alt="Dravi Infra Logo"
                 width="700px"
                 height="277px"
               />
