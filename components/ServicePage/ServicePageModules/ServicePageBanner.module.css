@@ -1,0 +1,9 @@
+.bannerWrapper > div {
+  width: 100%;
+  height: 300px;
+  margin-bottom: 30px !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden !important;
+}

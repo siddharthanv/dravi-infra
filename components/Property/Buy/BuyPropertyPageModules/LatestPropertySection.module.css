@@ -1,0 +1,74 @@
+.root {
+  margin-bottom: 50px !important;
+}
+
+.myWrapper > div {
+  height: 220px !important;
+  width: 100% !important;
+}
+
+.card {
+  margin: 40px 20px !important;
+  height: 100% !important;
+}
+
+.amenities {
+  padding: 10px !important;
+  color: rgb(73, 72, 72) !important;
+}
+
+.title {
+  padding: 10px !important;
+}
+
+.title1 {
+  color: #259ac4 !important;
+}
+
+.title2 {
+  color: rgb(73, 72, 72) !important;
+}
+
+.button1 {
+  background-color: #259ac4 !important;
+  color: #fff !important;
+  margin: 10px 5px 18px 10px !important;
+  width: 100% !important;
+}
+
+.button2 {
+  background-color: #259ac4 !important;
+  color: #fff !important;
+  margin: 10px 10px 18px 5px !important;
+}
+
+.container {
+  position: relative;
+}
+
+.topLeft {
+  position: absolute;
+  top: 17px;
+  left: -68px;
+  background-color: rgba(37, 154, 196, 0.8);
+  padding: 5px;
+  width: 200px;
+  text-align: center;
+  color: #fff;
+  font-weight: 800;
+  font-size: 13px;
+  transform: rotate(0.88turn);
+}
+
+.bottomRight {
+  position: absolute;
+  bottom: 17px;
+  right: 10px;
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 8px 12px;
+  text-align: center;
+  color: #fff;
+  font-weight: 800;
+  font-size: 13px;
+  border-radius: 3px;
+}

@@ -1,0 +1,39 @@
+.footerContentStyle {
+  color: #fff !important;
+  line-height: 25px;
+  word-spacing: 1px;
+  cursor: pointer;
+}
+
+.h2 {
+  position: relative;
+  padding: 0 0 10px;
+  margin-bottom: 20px;
+  transform: scaleX(1);
+}
+
+.h2:after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform: translateX(-50%);
+  height: 4px;
+  width: 50px;
+  border-radius: 2px;
+  background-color: #259ac4;
+}
+
+.address {
+  margin-bottom: 10px;
+}
+
+.icon {
+  margin-right: 10px;
+}
+
+@media (max-width: 960px) {
+  .footerContentStyle {
+    text-align: center !important;
+  }
+}

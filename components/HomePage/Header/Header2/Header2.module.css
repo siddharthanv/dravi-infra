@@ -1,0 +1,135 @@
+.navbarList {
+  list-style-type: none !important;
+  padding: 5px !important;
+  color: #555;
+  cursor: pointer !important;
+  border-radius: 5px !important;
+}
+
+.navbarList:hover {
+  color: #000;
+  background-color: rgba(0, 0, 0, 0.1) !important;
+  font-size: 18px !important;
+}
+
+.logoWrapper > div {
+  width: 170px !important;
+  height: 103px !important;
+}
+
+.myWrapper > div {
+  border-radius: 5px !important;
+  width: 85% !important;
+  height: 197px !important;
+  margin: 25px auto !important;
+}
+
+.myWrapper > div:hover {
+  width: 95% !important;
+  height: 230px !important;
+  box-shadow: 0px 10px 40px 0px rgb(0, 0, 0, 0.5) !important;
+}
+
+.ulStyle {
+  margin-top: 25px !important;
+}
+
+.b,
+.b1,
+.b2,
+.b3,
+.b4,
+.b5 {
+  display: none;
+  min-height: 500px !important;
+  width: 100% !important;
+  background-color: #fff !important;
+  position: absolute !important;
+  margin-top: 115px !important;
+  margin-left: -20px !important;
+  box-shadow: 0px 5px 20px 0px rgb(0, 0, 0, 0.5) !important;
+  border-radius: 5px !important;
+  z-index: 1 !important;
+}
+
+.b:hover,
+.b1:hover,
+.b2:hover,
+.b3:hover,
+.b4:hover,
+.b5:hover {
+  display: block;
+}
+
+.bclose,
+.bclose:hover {
+  display: none;
+}
+
+.a,
+.a1,
+.a2,
+.a3,
+.a4,
+.a5 {
+  margin: 0px 5px !important;
+  padding: 1px !important;
+}
+
+.a:hover ~ .b,
+.a1:hover ~ .b1,
+.a2:hover ~ .b2,
+.a3:hover ~ .b3,
+.a4:hover ~ .b4,
+.a5:hover ~ .b5 {
+  display: block !important;
+}
+
+.b:hover ~ .a,
+.b1:hover ~ .a1,
+.b2:hover ~ .a2,
+.b3:hover ~ .a3,
+.b4:hover ~ .a4,
+.b5:hover ~ .a5 {
+  display: none !important;
+}
+
+.mobDisBlock {
+  display: none !important;
+  color: #000 !important;
+}
+
+.mobNavList {
+  width: 250px !important;
+}
+
+.mobNavATag {
+  font-size: 14px !important;
+}
+
+@media screen and (max-width: 960px) {
+  .mobDisBlock {
+    display: block !important;
+    color: #000 !important;
+  }
+
+  .logoWrapper > div {
+    width: 120px !important;
+    height: 73px !important;
+  }
+
+  .a,
+  .a1,
+  .a2,
+  .a3,
+  .a4,
+  .a5,
+  .b,
+  .b1,
+  .b2,
+  .b3,
+  .b4,
+  .b5 {
+    display: none !important;
+  }
+}

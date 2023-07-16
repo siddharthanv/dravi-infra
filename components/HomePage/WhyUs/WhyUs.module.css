@@ -1,0 +1,42 @@
+.colorBlue {
+  color: #259ac4 !important;
+}
+
+.center {
+  text-align: -webkit-center !important;
+}
+
+.icon50 {
+  font-size: 100px !important;
+}
+
+.whyUsIcon {
+  margin: 20px 0px !important;
+}
+
+.mBottom10 {
+  margin-bottom: 10px !important;
+}
+
+.mBottom20 {
+  margin-bottom: 20px !important;
+}
+
+.lh1p6 {
+  line-height: 1.6 !important;
+  word-spacing: 2px !important;
+}
+
+@media screen and (max-width: 960px) {
+  .mBottom10 {
+    margin-bottom: 0px !important;
+  }
+
+  .whyUsIcon {
+    margin: 0px 0px !important;
+  }
+
+  .mBottom20 {
+    margin-bottom: 10px !important;
+  }
+}

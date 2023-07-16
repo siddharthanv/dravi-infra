@@ -1,0 +1,43 @@
+.popularServicesCardStyle {
+  margin-bottom: 50px;
+}
+
+.popularServicesCardStyleForMobile {
+  margin-bottom: 20px;
+  display: none !important;
+}
+
+.root {
+  max-width: 345px;
+}
+.media {
+  height: 170px;
+}
+
+.myWrapper > div {
+  border-radius: 5px !important;
+  width: 90% !important;
+  height: 197px !important;
+  margin: 25px auto !important;
+}
+
+.myWrapperForMobile > div {
+  border-radius: 5px !important;
+  height: 180px !important;
+  margin: 15px auto !important;
+}
+
+.myWrapper > div:hover {
+  width: 95% !important;
+  height: 230px !important;
+}
+
+@media screen and (max-width: 960px) {
+  .popularServicesCardStyle {
+    display: none !important;
+  }
+
+  .popularServicesCardStyleForMobile {
+    display: block !important;
+  }
+}

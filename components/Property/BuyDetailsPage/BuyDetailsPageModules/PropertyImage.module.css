@@ -1,0 +1,92 @@
+/* .myWrapper > div {
+  width: 100% !important;
+  height: 101% !important;
+}
+
+.propNameSection {
+  background-color: #259ac4 !important;
+  color: #fff !important;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.propName {
+  padding: 10px 0px !important;
+}
+
+.propAddress {
+  color: rgb(240, 238, 238) !important;
+} */
+
+/* .imageBox {
+  width: 100%;
+}
+
+.myWrapper {
+  width: 70% !important;
+} */
+
+.container {
+  position: relative !important;
+}
+
+.myWrapper > div {
+  height: 70vh !important;
+  width: 80% !important;
+  margin-top: 50px !important;
+  margin-bottom: 200px !important;
+}
+
+.floatingCard {
+  position: absolute;
+  top: 79%;
+  left: 65%;
+  transform: translate(-50%, -50%);
+  min-width: 43% !important;
+  box-shadow: 0px 5px 5px 5px rgba(0, 0, 0, 0.3) !important;
+}
+
+.propDetailSubHeading {
+  color: #0000009c !important;
+  font-size: 12px !important;
+  margin-top: 0px !important;
+  font-family: "Varela Round", sans-serif !important;
+}
+
+.propDetailHeading {
+  font-weight: 600 !important;
+  margin-bottom: 30px !important;
+  color: #211047 !important;
+  font-size: 27px !important;
+  font-family: "Varela Round", sans-serif !important;
+}
+
+.buttonContact1 {
+  min-width: 100% !important;
+  width: 200px !important;
+  margin: 5px 0px !important;
+  color: green !important;
+  border-color: rgb(215, 221, 215) !important;
+  text-transform: none !important;
+  font-family: "Varela Round", sans-serif !important;
+  font-weight: 800 !important;
+}
+
+.buttonContact2 {
+  min-width: 100% !important;
+  width: 200px !important;
+  margin: 5px 0px !important;
+  color: #259ac4 !important;
+  border-color: rgb(215, 221, 215) !important;
+  text-transform: none !important;
+  font-family: "Varela Round", sans-serif !important;
+  font-weight: 800 !important;
+}
+
+.buttonContact3 {
+  background-color: #259ac4 !important;
+  color: #fff !important;
+  text-transform: none !important;
+  font-family: "Varela Round", sans-serif !important;
+  font-weight: 800 !important;
+}

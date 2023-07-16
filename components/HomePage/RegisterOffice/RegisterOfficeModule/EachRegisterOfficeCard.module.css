@@ -1,0 +1,57 @@
+.rootMother {
+  height: 100% !important;
+}
+
+.rootMother:hover {
+  box-shadow: 0 20px 40px 0 rgba(0, 0, 0, 0.5);
+  transition: 0.5s;
+}
+
+.aTagGetServiceStyle {
+  text-decoration: none;
+  margin: auto 0px;
+}
+
+.root {
+  display: flex;
+  height: 100%;
+}
+.details {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+}
+.cardHeading {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+.textDull {
+  color: #666;
+}
+.cardButton {
+  margin: 5px 0px;
+  background-color: #259ac4 !important;
+  color: #fff !important;
+}
+.cardButton:hover {
+  background-color: #259ac4 !important;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3);
+}
+
+.imageCover {
+  display: flex;
+  height: 100%;
+  align-items: center;
+}
+.cover {
+  width: 150px;
+  height: 150px;
+}
+
+.myWrapper > div {
+  height: 150px;
+  width: 150px;
+  display: flex;
+  height: 100%;
+  align-items: center;
+}

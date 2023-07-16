@@ -1,0 +1,109 @@
+.reviewForDesktop {
+}
+
+.reviewForMobile {
+  display: none !important;
+  margin-bottom: 30px !important;
+}
+
+.fontLilly1 {
+  font-family: "Lily Script One", cursive !important;
+  font-size: 110px !important;
+  position: absolute !important;
+  top: -42px !important;
+  left: 25px !important;
+  color: #259ac4 !important;
+  letter-spacing: -4px !important;
+}
+
+.fontLilly {
+  font-family: "Lily Script One", cursive !important;
+  font-size: 110px !important;
+  position: absolute !important;
+  top: -42px !important;
+  left: 160px !important;
+  color: #259ac4 !important;
+  letter-spacing: -4px !important;
+}
+
+.cardStyle {
+  box-shadow: 5px rgba(70, 160, 70, 0.1) !important;
+  padding: 30px 100px 60px 100px !important;
+  text-align: center !important;
+  width: 75% !important;
+  background-color: #eee !important;
+}
+
+.cardStyle1 {
+  box-shadow: 5px rgba(70, 160, 70, 0.1) !important;
+  padding: 30px 100px 60px 100px !important;
+  text-align: center !important;
+  width: 75% !important;
+  background-color: #eee !important;
+  margin: 50px 0px !important;
+}
+
+.cardInner {
+  margin-top: 50px !important;
+}
+
+.cardTypography {
+  color: #666 !important;
+  transform: scaleX(1.1) !important;
+  margin-bottom: 20px !important;
+}
+
+.myWrapper > div {
+  width: 100px !important;
+  height: 100px !important;
+  background-color: #ddd !important;
+  border-radius: 50% !important;
+  margin-bottom: 10px !important;
+}
+
+.fontLillyForMobile {
+  font-family: "Lily Script One", cursive !important;
+  font-size: 110px !important;
+  position: absolute !important;
+  top: -42px !important;
+  left: 40px !important;
+  color: #259ac4 !important;
+  letter-spacing: -4px !important;
+  z-index: 2 !important;
+}
+
+.cardStyleForMobile {
+  box-shadow: 5px rgba(70, 160, 70, 0.1) !important;
+  padding: 8px 25px 16px 25px !important;
+  text-align: center !important;
+  width: 100% !important;
+  background-color: #eee !important;
+}
+
+.cardInnerForMobile {
+  margin-top: 50px !important;
+}
+
+.cardTypographyForMobile {
+  color: #666 !important;
+  transform: scaleX(1.1) !important;
+  margin-bottom: 20px !important;
+}
+
+.myWrapperForMobile > div {
+  width: 100px !important;
+  height: 100px !important;
+  background-color: #ddd !important;
+  border-radius: 50% !important;
+  margin-bottom: 10px !important;
+}
+
+@media screen and (max-width: 960px) {
+  .reviewForDesktop {
+    display: none !important;
+  }
+
+  .reviewForMobile {
+    display: block !important;
+  }
+}

@@ -1,0 +1,68 @@
+.myWrapper > div {
+  height: 500px !important;
+  width: 600px !important;
+  margin: 80px 0px !important;
+}
+
+.signUpHeading {
+  font-size: 30px !important;
+  line-height: 45px !important;
+  font-weight: 700 !important;
+  margin-bottom: 28px !important;
+}
+
+.formGroup {
+  margin-bottom: 25px !important;
+}
+
+.formLabel {
+  font-style: normal !important;
+  font-weight: 500 !important;
+  font-size: 14px !important;
+  line-height: 17px !important;
+  color: #333333 !important;
+  margin-bottom: 8px !important;
+}
+
+.asteriskStyle {
+  color: red !important;
+}
+
+.formInput {
+  background: #fcfcfc !important;
+  border: 1px solid #cecece !important;
+  box-sizing: border-box !important;
+  border-radius: 5px !important;
+  padding: 15px 15px 12px 12px !important;
+  width: 350px !important;
+  margin-bottom: 17px !important;
+  font-size: 15px !important;
+}
+
+.formSubmitButton {
+  padding: 10px 20px !important;
+  font-weight: 600 !important;
+  background-color: #2594ac !important;
+  color: #fff !important;
+  margin-bottom: 15px !important;
+  width: 350px !important;
+}
+
+.formSignInText {
+  font-style: normal !important;
+  font-weight: 500 !important;
+  font-size: 14px !important;
+  line-height: 17px !important;
+  color: #666 !important;
+  margin-bottom: 8px !important;
+}
+
+.signInButton {
+  text-decoration: none !important;
+  cursor: pointer !important;
+  color: #2594ac !important;
+}
+
+.signInButton:hover {
+  font-size: 16px !important;
+}

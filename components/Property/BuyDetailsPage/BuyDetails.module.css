@@ -1,0 +1,13 @@
+.AboutHeading {
+  font-family: "Varela Round", sans-serif !important;
+  font-size: 25px !important;
+  font-weight: 800 !important;
+}
+
+.listOfAboutProperty {
+  list-style-type: none !important;
+  font-family: "Varela Round", sans-serif !important;
+  font-size: 15px !important;
+  line-height: 27px !important;
+  color: #665980 !important;
+}

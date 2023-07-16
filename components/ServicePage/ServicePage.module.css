@@ -1,0 +1,66 @@
+.headingh1 {
+  padding-top: 35px;
+  padding-bottom: 15px;
+}
+
+.myWrapper > div {
+  overflow: hidden !important;
+  width: 100% !important;
+  min-height: 277px !important;
+  object-fit: cover !important;
+  height: unset !important;
+}
+
+.customImg {
+  object-fit: cover;
+  overflow: hidden;
+  width: 100% !important;
+  height: 100% !important;
+  height: unset !important;
+  border-radius: 10px !important;
+}
+
+.unsetImg {
+  width: 100%;
+  border-radius: 5px !important;
+}
+
+.categoryDescription {
+  font-family: "Roboto" !important;
+  line-height: 1.6 !important;
+  word-spacing: 2px !important;
+  margin-bottom: 50px !important;
+}
+
+.categoryDescription > h3 {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  font-size: 25px !important;
+  margin: 10px 0px !important;
+}
+
+.categoryDescription > h6 {
+  font-size: 18px !important;
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  margin: 10px 0px !important;
+}
+
+.categoryDescription > h3 > span {
+  color: #0066ff !important;
+}
+
+.categoryDescription > p {
+  color: #444;
+  margin: 0px !important;
+}
+
+.categoryDescription > ul {
+  margin: 10px 0px !important;
+}
+
+@media screen and (max-width: 960) {
+  .headingh1 {
+    padding-top: 0px;
+  }
+}

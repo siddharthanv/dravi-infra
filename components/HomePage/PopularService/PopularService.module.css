@@ -1,0 +1,9 @@
+.popularServicesHeading {
+  font-family: "Roboto", sans-serif;
+}
+
+@media screen and (max-width: 960px) {
+  .popularServicesHeading {
+    display: none !important;
+  }
+}

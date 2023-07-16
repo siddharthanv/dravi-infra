@@ -1,0 +1,84 @@
+.SRONameCard {
+  margin: 0px auto !important;
+  max-width: 250px !important;
+  width: 100% !important;
+  height: 100% !important;
+  box-shadow: 0px 8px 16px 0px rgb(0, 0, 0, 0.5) !important;
+  border-radius: 5px !important;
+}
+
+.SRONameCardBoxText {
+  text-align: center !important;
+  margin: 20px 25px 5px !important;
+  font-weight: 600 !important;
+}
+.SRONameCardBoxTextSecondary {
+  text-align: center !important;
+  margin: 0px 25px 20px !important;
+  font-weight: 500 !important;
+}
+
+.SRONameCardAvatarBox {
+  margin: 20px auto !important;
+  text-align: center !important;
+}
+
+.myWrapper > div {
+  height: 120px !important;
+  width: 120px !important;
+  text-align: center !important;
+}
+
+.SRONameCardAvatar {
+  margin: auto !important;
+  height: 150px !important;
+  width: 150px !important;
+  padding: 20px !important;
+}
+
+.SRODetailCard {
+  height: 100% !important;
+  box-shadow: 0px 8px 16px 0px rgb(0, 0, 0, 0.5) !important;
+  border-radius: 5px !important;
+}
+
+.SRODetailCardInnerDivCover {
+  padding: 20px !important;
+  height: 100% !important;
+}
+.SRODetailCardRegNameAvatar {
+  display: inline-flex !important;
+  margin-right: 10px !important;
+}
+
+.SRODetailCardDetailsText {
+  font-weight: 500 !important;
+}
+
+.SRODetailCardIcon {
+  width: 35px !important;
+  height: 50px !important;
+  margin-right: 10px !important;
+}
+.sroHeading {
+  margin: 50px 0px 20px !important;
+  text-align: center !important;
+  font-weight: 600 !important;
+}
+.sroHeadingCopy {
+  margin: 50px 0px 20px !important;
+  text-align: center !important;
+  font-weight: 500 !important;
+  width: 100% !important;
+}
+
+.SRODetailCardButton {
+  margin: 10px 10px 0px 0px !important;
+  background-color: #259ac4 !important;
+  color: #fff !important;
+}
+
+.SRODetailCardButton:hover {
+  background-color: #259ac4 !important;
+  color: #fff !important;
+}

@@ -1,0 +1,17 @@
+.basicDetails {
+  text-align: center !important;
+  color: #665980 !important;
+  font-family: "Varela Round", sans-serif !important;
+}
+
+.numberText {
+  font-size: 40px !important;
+  color: #211047 !important;
+  font-weight: 800 !important;
+  font-family: "Varela Round", sans-serif !important;
+}
+
+.textDetail {
+  font-size: 14px !important;
+  font-family: "Varela Round", sans-serif !important;
+}

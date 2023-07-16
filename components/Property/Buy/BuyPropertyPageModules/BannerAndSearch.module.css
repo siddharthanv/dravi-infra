@@ -1,0 +1,58 @@
+.root {
+  margin-bottom: 50px !important;
+}
+
+.myWrapper > div {
+  width: 100% !important;
+  height: 400px !important;
+}
+
+.container {
+  position: relative !important;
+}
+
+.search {
+  position: absolute;
+  top: 50%;
+  left: 75%;
+  transform: translate(-50%, -50%);
+}
+
+.searchBox {
+  width: 450px !important;
+  height: 300px !important;
+  background-color: rgba(255, 255, 255, 0.5) !important;
+  border-radius: 5px !important;
+}
+
+.searchBoxInnerDiv {
+  padding: 30px !important;
+}
+
+.label {
+  display: block !important;
+  margin: 10px 0px;
+}
+
+.selectFields {
+  width: 100% !important;
+  padding: 10px 5px !important;
+  margin-bottom: 10px !important;
+  border-color: rgb(167, 162, 162) !important;
+  border-radius: 3px !important;
+}
+
+.inputFields {
+  width: 93% !important;
+  padding: 10px 5px !important;
+  margin-bottom: 10px !important;
+  border-color: rgb(212, 211, 211) !important;
+  border-radius: 3px !important;
+}
+
+.Button {
+  width: 100% !important;
+  margin: 20px 0px !important;
+  background-color: #259ac4 !important;
+  color: #fff !important;
+}

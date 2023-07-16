@@ -1,0 +1,24 @@
+.header {
+  text-align: center;
+  padding-top: 30px !important;
+  line-height: 1px !important;
+}
+
+.heading1 {
+  color: rgb(65, 63, 63) !important;
+  font-size: 21px !important;
+  transform: scaleX(1.1) !important;
+}
+.heading2 {
+  color: #259ac4 !important;
+  font-size: 30px !important;
+  font-weight: 600 !important;
+  transform: scaleX(1.1) !important;
+}
+
+.divider {
+  margin: 5px auto 20px !important;
+  width: 50px !important;
+  border-top: 6px solid rgb(117, 114, 114) !important;
+  border-radius: 5px !important;
+}

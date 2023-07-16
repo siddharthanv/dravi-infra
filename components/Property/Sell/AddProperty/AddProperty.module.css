@@ -1,0 +1,29 @@
+.root {
+}
+
+.formInput {
+  background: #fcfcfc !important;
+  border: 1px solid #cecece !important;
+  box-sizing: border-box !important;
+  border-radius: 5px !important;
+  padding: 15px 15px 12px 12px !important;
+  width: 100% !important;
+  margin-bottom: 16px !important;
+  font-size: 15px !important;
+}
+
+.propButton {
+  background-color: #259ac4 !important;
+  color: #fff !important;
+  border: 0px solid black !important;
+  padding: 15px 40px !important;
+  border-radius: 5px !important;
+  margin: 30px !important;
+  font-weight: 600 !important;
+  font-size: 16px !important;
+}
+
+.message {
+  margin-top: 20px !important;
+  font-weight: 600 !important;
+}

@@ -1,0 +1,37 @@
+.flexboxNav {
+  display: flex !important;
+  justify-content: flex-end !important;
+  align-items: center !important;
+}
+
+.callButton {
+  color: #259ac4 !important;
+  border-color: #259ac4 !important;
+  margin: 10px 0px 10px 20px !important;
+}
+
+.enquiryButton {
+  background-color: #259ac4 !important;
+  color: #fff !important;
+  margin: 10px 0px 10px 20px !important;
+}
+
+.postProperty {
+  color: #000 !important;
+  font-weight: 500 !important;
+  font-size: 15px !important;
+  margin-right: 35px !important;
+  position: relative !important;
+  cursor: pointer !important;
+}
+
+.postPropertyFree {
+  background-color: #259ac4 !important;
+  color: #fff !important;
+  padding: 0px 4px !important;
+  border-radius: 2px !important;
+  font-size: 12px !important;
+  position: absolute !important;
+  bottom: 9px !important;
+  right: -35px !important;
+}

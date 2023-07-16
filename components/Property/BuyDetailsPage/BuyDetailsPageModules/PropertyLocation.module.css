@@ -1,0 +1,23 @@
+.propertyLocationHeading {
+  font-weight: 600 !important;
+  font-family: "Varela Round", sans-serif !important;
+  font-size: 25px !important;
+  color: #211047 !important;
+}
+
+.cardPropertyLocation {
+  margin: 10px 0px !important;
+  padding: 5px 0px !important;
+}
+
+.propertyLocationIconHeading {
+  color: #665980 !important;
+  font-family: "Varela Round", sans-serif !important;
+}
+
+.propertyLocationAvailability {
+  font-weight: 800 !important;
+  font-family: "Varela Round", sans-serif !important;
+  font-size: 25px !important;
+  color: #211047 !important;
+}
