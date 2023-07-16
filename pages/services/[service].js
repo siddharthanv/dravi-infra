@@ -6,7 +6,7 @@ import Footer from "../../components/HomePage/Footer/Footer";
 import Head from "next/head";
 
 //  Import Images
-import Logo from "../../public/images/PropDealzLogo.png";
+import Logo from "../../public/images/Logo.jpeg";
 import img1 from "../../public/images/1.jpg";
 import img2 from "../../public/images/2.jpg";
 import img3 from "../../public/images/3.jpg";
